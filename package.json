@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-redux-toastr": "^7.6.5",
+    "react-toastify": "^7.0.2",
+    "react-toastr": "^3.0.0"
+  }
+}
